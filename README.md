@@ -20,4 +20,4 @@ npm run dev
 
 ## Preview
 
-![屏幕快照 2018-01-24 下午6.25.58](/Users/hejing/Desktop/屏幕快照 2018-01-24 下午6.25.58.png)
+![](http://p1cjg886l.bkt.clouddn.com/ele-validate.png)
